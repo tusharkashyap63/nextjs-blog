@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Preoccupied all the time with anything front-end. Welcome to my blog.
+          Preoccupied all the time with anything front-end.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
